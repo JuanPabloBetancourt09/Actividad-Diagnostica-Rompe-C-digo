@@ -35,7 +35,7 @@ Repositorio con la solución a los 3 retos de lógica y algoritmos de la activid
 
 **Objetivo:** Adivinar un número entre 1 y 100 en un máximo de 7 intentos.
 
-### Estrategia (Búsqueda a la mitad / Binaria):
+### Estrategia: Búsqueda a la mitad / Binaria:
 1. Definir el rango inicial de búsqueda entre 1 y 100.
 2. Preguntar siempre por el número que está en el punto medio del rango actual.
 3. Según la respuesta:
